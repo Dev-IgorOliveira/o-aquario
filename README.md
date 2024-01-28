@@ -26,7 +26,7 @@
    Agradecemos antecipadamente pelo interesse e apoio contínuo.
 
    Igor Oliveira | [@Dev-IgorOliveira](https://github.com/Dev-IgorOliveira)<br>
-   Filipe Vilas Bôas | <br>
+   Filipe Vilas Bôas | [@filipevsb](https://github.com/filipesvb)<br>
    Pedro Miguel | <br>
    Cicero Romão | [@Cicer090](https://github.com/Cicer090)<br>
    Leonardo | <br>
