@@ -25,11 +25,12 @@ O Aquário - Acre Beach Park
 
    Agradecemos antecipadamente pelo interesse e apoio contínuo.
 
-   Igor Oliveira
-   Filipe Vilas Bôas
-   Pedro Miguel
-   Cicero Romão
-   Leonardo
+   Igor Oliveira<br>
+   Filipe Vilas Bôas<br>
+   Pedro Miguel<br>
+   Cicero Romão<br>
+   Leonardo<br>
 
-   Curso de Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
+
+   Curso de Análise e Desenvolvimento de Sistemas - Faculdade Descomplica<br>
    Grupo - O Aquário
