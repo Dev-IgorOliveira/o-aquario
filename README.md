@@ -33,7 +33,7 @@ Em resumo, nosso projeto fictício é uma expressão tangível do nosso compromi
 ### Agradecemos antecipadamente pelo interesse e apoio contínuo.
 
 Igor Oliveira | [@Dev-IgorOliveira](https://github.com/Dev-IgorOliveira)<br>
-Filipe Vilas Bôas | [@filipevsb](https://github.com/filipesvb)<br>
+Filipe Vilas Bôas | [@filipesvb](https://github.com/filipesvb)<br>
 Pedro Miguel | [@PedroMiguel29](https://github.com/PedroMiguel29)<br>
 Cicero Romão | [@Cicer090](https://github.com/Cicer090)<br>
 Leonardo | [@leonardosfilho](https://github.com/leonardosfilho)<br>
