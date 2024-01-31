@@ -4,7 +4,7 @@
 
 ## CONTEXTUALIZAÇÃO:
 
-Nosso projeto surge da necessidade de abordar desafios contemporâneos na área de tecnologia. Através da ideia de alguns alunos do curso, foi sugerido que unissimos a turma e a dividissimos em grupos de 5 integrantes, desta forma foi iniciada a divisão de projetos ficticios para cada grupo, que inspirou a criação de uma solução imaginária e eficaz.
+Nosso projeto surge da necessidade de abordar desafios contemporâneos na área de tecnologia. Através da ideia de alguns alunos do curso, foi sugerido que uníssemos a turma e a dividíssemos em grupos de 5 integrantes, desta forma foi iniciada a divisão de projetos fictícios para cada grupo, que inspirou a criação de uma solução imaginária e eficaz.
 
 ## OBJETIVO:
 
@@ -20,7 +20,7 @@ Optamos por uma abordagem ágil, dividindo o projeto em iterações para permiti
 
 ## DESCRIÇÃO DO SISTEMA:
 
-O sistema que desenvolveremos simula um site para um parque aquático um ambiente prático com destaque para uma área de compra de ingressos online, em que aplicamos os conceitos estudados no curso. Este projeto fictício abrange desde a concepção até a implementação, destacando aspectos como arquitetura web, design de interface, segurança da informação e testes.
+O sistema que desenvolveremos simula um site para um parque aquático, um ambiente prático com destaque para uma área de compra de ingressos online, em que aplicamos os conceitos estudados no curso. Este projeto fictício abrange desde a concepção até a implementação, destacando aspectos como arquitetura web, design de interface, segurança da informação e testes.
 
 ## BENEFÍCIOS ESPERADOS:
 
